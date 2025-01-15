@@ -25,7 +25,7 @@ Welcome to the TSS Calculator repository! This tool helps you calculate your Tra
 
 1. **Enter Your FTP**:
    - Open the `ftp.txt` file in a text editor.
-   - Enter your FTP (e.g., `217`) and save the file.
+   - Enter your FTP (e.g., `200`) and save the file.
 
 2. **Prepare Your Workout Data**:
    - Copy and paste your workout data from [Domestiq](https://domestiq.net/) into a file named `workout.csv`.
@@ -45,7 +45,7 @@ Welcome to the TSS Calculator repository! This tool helps you calculate your Tra
    - Open a terminal in the project directory.
    - Execute the script:
      ```bash
-     python calculate_tss.py
+     python calculate_TSS.py
      ```
 
 4. **View Results**:
