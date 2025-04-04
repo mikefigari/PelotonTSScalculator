@@ -2,6 +2,12 @@
 
 Welcome to the TSS Calculator repository! This tool helps you calculate your Training Stress Score (TSS) from your cycling workout data. By using this script, you can input your FTP (Functional Threshold Power) and workout data to generate accurate TSS results. Follow the instructions below to get started.
 
+## 🌐 Live App
+
+👉 [tsscalculator.michaelfigari.com](https://tsscalculator.michaelfigari.com)
+
+No setup required — just open the site, enter your FTP, and upload your workout CSV.
+
 ## Prerequisites
 
 - Python 3.x installed on your system.
